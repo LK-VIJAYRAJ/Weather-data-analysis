@@ -1,0 +1,2 @@
+The Weather Analytics Platform represents a comprehensive solution for large-scale weather data management, processing, and analysis using MongoDB's document-oriented database architecture. This project aims to address the need for efficient handling of meteorological big data through automated data ingestion, real-time processing, andanalytical capabilities. 
+The platform aims to employ a three-tier architecture consisting of data ingestion services, MongoDB storage layer, and analytics processing engine.
